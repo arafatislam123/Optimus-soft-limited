@@ -186,5 +186,5 @@ This project is proprietary software developed for Optimus Software Limited.
 ## Support
 
 For support and inquiries, contact:
-- Email: info@optimussoftware.com
-- Phone: +880 1234 567890
+- Email: arafatpstu7@gmail.com
+- Phone: +880 1311138244
