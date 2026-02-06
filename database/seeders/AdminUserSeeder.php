@@ -12,9 +12,9 @@ class AdminUserSeeder extends Seeder
     {
         User::create([
             'name' => 'Admin',
-            'email' => 'admin@optimus.com',
+            'email' => 'arafatpstu7@gmail.com',
             'is_admin' => true,
-            'password' => Hash::make('password'),
+            'password' => Hash::make('01905167467@?aR'),
             'email_verified_at' => now(),
         ]);
     }

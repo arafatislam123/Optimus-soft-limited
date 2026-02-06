@@ -65,11 +65,6 @@
             <span v-else>Sign in</span>
           </button>
         </div>
-        
-        <div class="text-center text-sm text-gray-600">
-          <p>Default credentials:</p>
-          <p class="font-mono text-xs mt-1">admin@optimus.com / password</p>
-        </div>
       </form>
     </div>
   </div>
